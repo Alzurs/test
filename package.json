@@ -1,0 +1,14 @@
+{
+    "name": "NodeJs_Uebung3",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Lukas",
+    "contributors": [],
+    "dependencies": {}
+}
